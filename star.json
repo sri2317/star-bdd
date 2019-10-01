@@ -1,0 +1,15 @@
+{
+  "URLS": {
+    "QA" : "https://www.wikipedia.org/",
+    "STAGING" : "",
+    "PROD" : "",
+    "DEV": ""
+  },
+
+  "BROWSER_MAPPING": {
+    "Basic Wikipedia Search" : "CHROME",
+    "Basic Wikipedia Search2" : "FIREFOX"
+  },
+  "PROJECT_NAME": "CORE TEAM",
+  "TEST_TYPE": "WEB"
+}
