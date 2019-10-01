@@ -6,7 +6,7 @@ email - ravi.salunkhe@mastek.com
 version - 0.5
 
 ############################
-          Setup:-
+Setup:-
 ############################
 Step 1:
 git clone this repository or git fork 
