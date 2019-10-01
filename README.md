@@ -2,7 +2,9 @@
 Hybrid-BDD enabled Test Automation Framework based on Pytest-BDD
 
 developer - ravi salunkhe
+
 email - ravi.salunkhe@mastek.com
+
 version - 0.5
 
 Setup:-
