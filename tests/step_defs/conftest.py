@@ -12,7 +12,7 @@ import os
 # Fixtures
 @pytest.fixture
 def driver(request):
-    print(str(request.node.originalname))
+    print(str(request.node.originalname).replace('test_',''))
     b = webdriver.Chrome(executable_path='drivers/chromedriver.exe')
     b.implicitly_wait(10)
     yield b
